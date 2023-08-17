@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "The Dude",
+    "label": "Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "dude@indemeterkast.nl",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://heyudude.github.io/dude-folio/",
+    "summary": "A Dutch born engineer",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "1111 AA",
+      "city": "Limburg",
+      "countryCode": "NL",
+      "region": "Netherlands"
     },
     "profiles": [
       {
