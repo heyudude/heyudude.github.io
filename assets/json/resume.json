@@ -16,19 +16,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Mastodon",
+        "username": "@JustDude@mastodon.nl",
+        "url": "https://mastodon.nl/@justdude"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Consultancy",
+      "position": "Engineer",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "1990-01-01",
+      "endDate": "2023-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
         "Relativity"
@@ -38,7 +38,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Batchelor",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
@@ -46,16 +46,8 @@
       "endDate": "1905-01-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Theory of Optimism"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
@@ -63,7 +55,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Dutch",
       "fluency": "Native speaker"
     },
     {
